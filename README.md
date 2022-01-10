@@ -6,11 +6,11 @@
 
 [![linkedin](https://img.shields.io/badge/-linkedin-171717?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmtanbir/)](https://www.linkedin.com/in/hmtanbir/)
 [![blog](https://img.shields.io/badge/-blog-171717?style=flat-square&logo=Ghost&logoColor=white&link=https://dev.to/hmtanbir)](https://dev.to/hmtanbir/)
-[![GitHub followers](https://img.shields.io/github/followers/sajjadmurtaza.svg?style=social&label=follow&maxAge=2592000)](https://github.com/sajjadmurtaza?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/hmtanbir.svg?style=social&label=follow&maxAge=2592000)](https://github.com/hmtanbir?tab=followers)
 
 | **I ~sort of~ am** 	| Stats 	|
 |-	|-	|
-| - Ruby on Rails developer<br>- 7+ years of experience<br>- Ruby Enthusiast, Book lover, Cooker and stuff<br>- 2014: First Ruby on Rails Project [RIMS](https://github.com/BDMADE/project1)<br>-  Lazy enough to not insert more bullet points 🤭| ![hmtanbir github stats](https://github-readme-stats.vercel.app/api?username=hmtanbir&include_all_commits=true&count_private=true&show_icons=true&theme=radical) 	|
+| - Ruby on Rails developer<br>- 7+ years of experience<br>- Ruby Enthusiast, Book lover, Cooker and stuff<br>- 2015: First Ruby on Rails Project [Project1](https://github.com/BDMADE/project1)<br>-  Lazy enough to not insert more bullet points 🤭| ![hmtanbir github stats](https://github-readme-stats.vercel.app/api?username=hmtanbir&include_all_commits=true&count_private=true&show_icons=true&theme=radical) 	|
 
 
 ## Open Source Contribution
