@@ -5,6 +5,7 @@
 ## Overview
 
 [![linkedin](https://img.shields.io/badge/-linkedin-171717?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmtanbir/)](https://www.linkedin.com/in/hmtanbir/)
+[![stackoverflow](https://img.shields.io/badge/-stackoverflow-171717?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5266581/hm-tanbir)](https://stackoverflow.com/users/5266581/hm-tanbir)
 [![blog](https://img.shields.io/badge/-blog-171717?style=flat-square&logo=Ghost&logoColor=white&link=https://dev.to/hmtanbir)](https://dev.to/hmtanbir/)
 [![GitHub followers](https://img.shields.io/github/followers/hmtanbir.svg?style=social&label=follow&maxAge=2592000)](https://github.com/hmtanbir?tab=followers)
 
