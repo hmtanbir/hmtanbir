@@ -8,7 +8,6 @@
 [![stackoverflow](https://img.shields.io/badge/-stackoverflow-171717?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5266581/hm-tanbir)](https://stackoverflow.com/users/5266581/hm-tanbir)
 [![blog](https://img.shields.io/badge/-blog-171717?style=flat-square&logo=Ghost&logoColor=white&link=https://dev.to/hmtanbir)](https://dev.to/hmtanbir/)
 [![GitHub followers](https://img.shields.io/github/followers/hmtanbir.svg?style=social&label=follow&maxAge=2592000)](https://github.com/hmtanbir?tab=followers)
-<a href="https://www.learnenough.com/certificates/hmtanbir"><img src="https://www.learnenough.com/certificates/hmtanbir/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
 
 | **I ~sort of~ am** 	| Stats 	|
 |-	|-	|
