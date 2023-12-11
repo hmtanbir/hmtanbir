@@ -11,7 +11,7 @@
 
 | **I ~sort of~ am** 	| Stats 	|
 |-	|-	|
-| - Ruby on Rails developer<br>- 7+ years of experience<br>- Ruby Enthusiast, Book lover, Cooker and stuff<br>- 2015: First Ruby on Rails Project [Project1](https://github.com/BDMADE/project1)<br>-  Lazy enough to not insert more bullet points 🤭| ![hmtanbir github stats](https://github-readme-stats.vercel.app/api?username=hmtanbir&include_all_commits=true&count_private=true&show_icons=true&theme=radical) 	|
+| - Ruby on Rails developer<br>- 12+ years of experience<br>- Ruby Enthusiast, Book lover, Cooker and stuff<br>- 2015: First Ruby on Rails Project [Project1](https://github.com/BDMADE/project1)<br>-  Lazy enough to not insert more bullet points 🤭| ![hmtanbir github stats](https://github-readme-stats.vercel.app/api?username=hmtanbir&include_all_commits=true&count_private=true&show_icons=true&theme=radical) 	|
 
 
 ## Open Source Contribution
